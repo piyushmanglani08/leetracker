@@ -1,0 +1,9 @@
+#container {
+  background-color: rgba(56, 85, 85, 0.39);
+  padding: 90px;
+  text-align: center;
+  font-size: larger;
+}
+body {
+  background-color: antiquewhite;
+}
